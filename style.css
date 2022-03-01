@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #010505;
+}
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
